@@ -1,7 +1,7 @@
 <div align="center">
   
-[rentry](https://rentry.co/bowling-duo)
-[strawpage](https://dinnerisnotover.straw.page/)
+[rentry](https://rentry.co/bowling-duo) ﹒
+[strawpage](https://dinnerisnotover.straw.page/) ﹒
 [atabook](https://undyingregret.atabook.org/)
 </div>
 
